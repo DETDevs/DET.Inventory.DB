@@ -60,4 +60,13 @@
     <Folder Include="dbo\Tables" />
     <Folder Include="dbo\Stored Procedures" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="dbo\Tables\Categoria.sql" />
+    <Build Include="dbo\Tables\Cliente.sql" />
+    <Build Include="dbo\Tables\Persona.sql" />
+    <Build Include="dbo\Tables\Producto.sql" />
+    <Build Include="dbo\Tables\Proveedor.sql" />
+    <Build Include="dbo\Tables\Rol.sql" />
+    <Build Include="dbo\Tables\Usuario.sql" />
+  </ItemGroup>
 </Project>
