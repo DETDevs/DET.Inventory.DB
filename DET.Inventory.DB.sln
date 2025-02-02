@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DET.Inventory.DB", "DET.Inventory.DB\DET.Inventory.DB.sqlproj", "{20731118-FAE1-4BC8-8DDE-173D82DE087F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20731118-FAE1-4BC8-8DDE-173D82DE087F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20731118-FAE1-4BC8-8DDE-173D82DE087F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20731118-FAE1-4BC8-8DDE-173D82DE087F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{20731118-FAE1-4BC8-8DDE-173D82DE087F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20731118-FAE1-4BC8-8DDE-173D82DE087F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20731118-FAE1-4BC8-8DDE-173D82DE087F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80822903-9C3F-4C81-821F-9F0A5735F799}
+	EndGlobalSection
+EndGlobal
