@@ -68,5 +68,18 @@
     <Build Include="dbo\Tables\Proveedor.sql" />
     <Build Include="dbo\Tables\Rol.sql" />
     <Build Include="dbo\Tables\Usuario.sql" />
+    <None Include="dbo\Stored Procedures\sp_Categoria_Listar.sql" />
+    <None Include="dbo\Stored Procedures\sp_Cliente_Guardar.sql" />
+    <None Include="dbo\Stored Procedures\sp_Cliente_Listar.sql" />
+    <None Include="dbo\Stored Procedures\sp_Producto_Guardar.sql" />
+    <None Include="dbo\Stored Procedures\sp_Producto_Listar.sql" />
+    <None Include="dbo\Stored Procedures\sp_Proveedor_Guardar.sql" />
+    <None Include="dbo\Stored Procedures\sp_Proveedor_Listar.sql" />
+    <None Include="dbo\Stored Procedures\sp_Rol_Listar.sql" />
+    <None Include="dbo\Stored Procedures\sp_Usuario_Guardar.sql" />
+    <None Include="dbo\Stored Procedures\sp_Usuario_Listar.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dbo\Stored Procedures\sp_Categoria_Guardar.sql" />
   </ItemGroup>
 </Project>
